@@ -7,8 +7,8 @@ h1, p {
 	margin: 0 auto;
 	text-align: center;
 }
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 550px) {
   img {
-  	width: 350px;
+  	width: 300px;
   }
 }
